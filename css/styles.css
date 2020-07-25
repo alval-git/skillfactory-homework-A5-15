@@ -1,0 +1,13 @@
+.var-wraper{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: yellow;
+	
+}
+input{
+	width: 100%;
+}
+.button-row{
+	margin-top: 40px;
+}
